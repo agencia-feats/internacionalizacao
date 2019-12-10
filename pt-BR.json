@@ -1,0 +1,86 @@
+{
+	"inicio": {
+		"topo": {
+			"mainTitle": "",
+			"buttons": {
+				"category": "Categorias",
+				"back": "Voltar",
+				"addItem": "Add um ítem",
+				"edit": ""
+			},
+			"topAlert": {
+				"sucessDelete": "Ítem excluído com sucesso!"
+			},
+			"modal": {
+				"back": {
+					"content": "voltando"
+				},
+				"addItem": {
+					"content": "Adicionando ítem..."
+				},
+				"loading": {
+					"content": "Carregando..."
+				},
+				"delete": {
+					"beforeContent": "Excluindo ítem...",
+					"content": "<b>Você quer excluir este Ítem?<\/b><br><br>Após clicar em 'Sim eu quero', não terá mais volta.<br> <b>Tem certeza?<\/b>",
+					"bot1": "Sim eu quero",
+					"bot2": "Cancelar"
+				}
+			}
+		}
+	},
+	"quem-somos": {
+		"index": {
+			"mainTitle": "Gerencias links para download",
+			"edit": "Editar",
+			"amount": "Quantidade:",
+			"tableColunms": {
+				"nameFile": "Nome do arquivo",
+				"type": "Tipo",
+				"size": "Peso",
+				"uploadDate": "Data de upload",
+				"link": "Add link"
+			},
+			"modal": {
+				"loading": "Carregando..."
+			}
+		},
+		"links": {
+			"mainTitle": "Links do arquivo:",
+			"backButton": "Voltar aos arquivos",
+			"backButtonBefore": "Voltando...",
+			"createLinkButton": "Criar um link cadastro",
+			"topAlert": {
+				"failCreateLink": "Houve alguma falha ao atualizar serialKey",
+				"sucessCreateLink": "SerialKey Atualizado",
+				"settingsIncorrectly": "Preencha corretamente as configurações"
+			},
+			"modal": {
+				"save": {
+					"saving": "Salvando..."
+				},
+				"delete": {
+					"before": "Excluindo link...",
+					"content": "Tem certeza de que você quer excluir esse link?<br>Isso não terá mais volta!",
+					"bot1": "Excluir",
+					"bot2": "Cancelar"
+				},
+				"addLink": {
+					"content": "Criando Link..."
+				},
+				"details": {
+					"mainTitle": "Informações do link",
+					"link": "Link",
+					"linkKey": "Acessar link + chave de acesso",
+					"activeLink": "Link Ativo",
+					"disableLinkFirstAccess": "Desativar link ao fazer o 1° download.",
+					"refreshLinkFirstAccess": "Atualizar serial key ao fazer o 1° download.",
+					"refreshLinkWithEveryDownload": "Atualizar serial a cada download",
+					"formatDate": "Data: AAAA-MM-DD",
+					"expireIn": "Expirar em:"
+				}
+			}
+		}
+	}
+}
